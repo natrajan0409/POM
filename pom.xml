@@ -36,6 +36,7 @@
     <version>3.141.59</version>
 </dependency>
 
+
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-remote-driver -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
